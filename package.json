@@ -1,0 +1,26 @@
+{
+  "name": "angular2-in-Action",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/common": "^6.0.7",
+    "@angular/compiler": "^6.0.7",
+    "@angular/core": "^6.0.7",
+    "@angular/forms": "^6.0.7",
+    "@angular/platform-browser": "^6.0.7",
+    "@angular/platform-browser-dynamic": "^6.0.7",
+    "core-js": "^2.5.7",
+    "gulp-file-include": "^1.1.0",
+    "gulp-html-minify": "0.0.14",
+    "npm-check-updates": "^2.14.2",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^6.2.1",
+    "systemjs": "^0.19.41",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.1.4",
+    "webpack": "^4.14.0",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,0 +1,51 @@
+{
+	"name": "ngx.superlayer",
+	"version": "3.0.0",
+	"main": "ngx.layer.js",
+	"types": "index.d.ts",
+	"description": "ngx dialog, alert, confirm, loading, tip",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/1inus/ngx.layer.git"
+	},
+	"homepage": "http://ng2-layer.wemakers.net/",
+	"keywords": [
+		"ngx",
+		"angular6",
+		"angular",
+		"angular2",
+		"dialog",
+		"alert",
+		"confirm",
+		"loading",
+		"tip",
+		"msg",
+		"message",
+		"layer"
+	],
+	"author": "LiangWei",
+	"license": "Apache",
+	"devDependencies": {
+		"@angular/common": "^6.0.7",
+		"@angular/compiler": "^6.0.7",
+		"@angular/core": "^6.0.7",
+		"@angular/forms": "^6.0.7",
+		"@angular/platform-browser": "^6.0.7",
+		"@angular/platform-browser-dynamic": "^6.0.7",
+		"core-js": "^2.5.7",
+		"gulp": "^3.9.1",
+		"gulp-less": "^3.3.2",
+		"gulp-typescript": "^5.0.0-alpha.3",
+		"gulp-watch-less": "^1.0.1",
+		"less": "2.7.3",
+		"npm-check-updates": "^2.14.2",
+		"reflect-metadata": "^0.1.10",
+		"rxjs": "^6.2.1",
+		"ts-loader": "^4.4.2",
+		"typescript": "^2.7.2",
+		"typescript-compiler": "^1.4.1-2",
+		"webpack": "^4.14.0",
+		"zone.js": "^0.8.5",
+		"webpack-cli": "^3.0.8"
+	}
+}
